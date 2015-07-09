@@ -43,15 +43,15 @@ OUTPUT
 
 
 FILES
+-----
 
+There are five files, they are 
 
-    There are five files, they are 
-
-    * standard.txt : gold_standard_set.txt						            
-    * miOut116.txt : co-occurrence results for 116 artists					    
-    * degree116.txt : degree results for 116 artists						    
-    * spec116.txt : spectral mean vector distance for 116 artsts  			            
-    * id_bollyArtist.map : map of artists, integer to string 					   
+* standard.txt : gold_standard_set.txt						            
+* miOut116.txt : co-occurrence results for 116 artists					    
+* degree116.txt : degree results for 116 artists						    
+* spec116.txt : spectral mean vector distance for 116 artsts  			            
+* id_bollyArtist.map : map of artists, integer to string 					   
 
 
 
