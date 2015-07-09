@@ -23,7 +23,8 @@ REACH
 OUTPUT
 ~~~~~~
 
-1. The output is formatted as follows (via tabulate package)
+The output is formatted as follows (via tabulate package)
+
 
      names                    precision    recall    F1-score	    
      ---------------------  -----------  --------  ----------
@@ -40,12 +41,11 @@ OUTPUT
      avg                       0.598746  0.575568    0.570314	    
 
 
-
-
-FILES
------
+FILE
+~~~~
 
 There are five files, they are 
+
 
 * standard.txt : gold_standard_set.txt						            
 * miOut116.txt : co-occurrence results for 116 artists					    
