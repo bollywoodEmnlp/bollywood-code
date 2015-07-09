@@ -1,0 +1,116 @@
+7241	32	Kumar Sanu
+9401	32	Shreya Ghoshal
+4231	27	Udit Narayan
+2579	27	Bappi Lahiri
+4237	26	Manna Dey
+67201	24	Anu Malik
+114746	24	Lata Mangeshkar
+2572	24	Asha Bhosle
+105720	23	Anuradha Paudwal
+105823	20	Hemlata
+32170	20	Kavita Krishnamurthy
+9027	18	Sunidhi Chauhan
+67221	17	Alka Yagnik
+117954	15	Sadhana Sargam
+106019	14	Sapna Mukherjee
+106155	14	Vinod Rathod
+17104	13	R D Burman
+2575	12	Kishore Kumar
+105697	12	Amit Kumar
+65828	11	S D Burman
+8547	10	Sonu Nigam
+115645	10	Talat Mahmood
+9514	10	Kunal Ganjawala
+11032	9	Mohammed Rafi
+105767	9	Chitra
+106095	9	Sulakshana Pandit
+73017	8	Atif Aslam
+105932	8	Nitin Mukesh
+117496	8	Rajkumari
+55035	8	Shamshad Begum
+106034	8	Shabbir Kumar
+19886	8	Suman Kalyanpur
+2465	7	Mukesh
+20039	7	Kailash Kher
+105903	7	Mohammad Aziz
+106145	7	Vijay Benedict
+105885	7	Mahalakshmi Iyer
+95458	7	Usha Uthup
+9770	6	Shilpa Rao
+105745	6	Babul Supriyo
+80125	6	Adnan Sami
+10499	6	Caralisa Monteiro
+36089	6	Hariharan
+2461	5	Geeta Dutt
+19446	5	Sharda Rajan Iyengar
+2576	5	Suraiya
+2580	5	Amitabh Bachchan
+8832	5	Shaan
+9051	5	Alisha Chinai
+12043	5	Yesudas
+118051	4	Roop Kumar Rathod
+80663	4	Amit Trivedi
+2574	4	Hemant Kumar
+14725	4	Shankar Mahadevan
+105879	4	Kunal
+10299	3	Suzanne D Mello
+6934	3	Lucky Ali
+105860	3	Kalpana
+9740	3	Anushka Manchanda
+106146	3	Vijay Yesudas
+17952	3	Ranjit Barot
+105873	3	Krishna
+106012	3	Sanjay Dutt
+90322	2	Pankaj Udhas
+9779	2	Mika Singh
+9778	2	Neeraj Shridhar
+105671	2	Abhijeet Bhattacharya
+105742	2	Babbu Maan
+51160	2	Jagjit Singh
+13286	2	Rekha Bhardwaj
+10127	2	Mohit Chauhan
+105781	2	Dominique Cerejo
+18589	2	Usha Mangeshkar
+106042	2	Shailendra Singh
+87247	2	Karthik
+6434	2	Kay Kay
+37497	2	Daler Mehndi
+19993	2	Vijay Prakash
+105884	2	Madhushree
+105893	2	Manhar Udhas
+105678	1	Aditi Singh Sharma
+9772	1	Raghav Sachar
+106170	1	Rahat Fateh Ali Khan
+92144	1	Shubha Mudgal
+106067	1	Shweta Pandit
+19657	1	Himesh Reshammiya
+79451	1	Sukhwinder Singh
+105844	1	Jaspinder Narula
+12841	1	Shibani Kashyap
+106040	1	Shail Hada
+105715	1	Anup Jalota
+18578	1	Mahendra Kapoor
+105988	1	Remo Fernandes
+105940	1	Pamela Jain
+9634	1	Richa Sharma
+19906	1	Sudesh Bhosle
+106143	1	Vasundhara Das
+90981	1	Rabbi Shergill
+106085	1	Sowmya Raoh
+138170	1	Javed Ali
+105690	1	Akriti Kakkar
+105748	0	Benny Dayal
+106078	0	Soham Chakraborty
+16862	0	Labh Janjua
+81517	0	Bhupinder Singh
+6072	0	Rahman
+105984	0	Ravindra Sathe
+105904	0	Shweta Mohan
+106036	0	Shahid Mallya
+20037	0	Zubeen Garg
+137965	0	Suraj Jagan
+106010	0	Sandesh Shandilya
+22521	0	Rashid Ali
+106081	0	Sonu Kakkar
+106005	0	Salma Agha
+105842	0	Janaki
