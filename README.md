@@ -25,7 +25,7 @@ OUTPUT
 
 The output is formatted as follows (via tabulate package)
 
-
+     ---------------------  -----------  --------  ----------
      names                    precision    recall    F1-score	    
      ---------------------  -----------  --------  ----------
      Daler Mehndi              0.636364  0.7         0.666667	    
@@ -39,6 +39,7 @@ The output is formatted as follows (via tabulate package)
      Alka Yagnik               0.636364  0.411765    0.5	    
         ....							    
      avg                       0.598746  0.575568    0.570314	    
+     ---------------------  -----------  --------  ----------
 
 
 FILE
@@ -47,11 +48,11 @@ FILE
 There are five files, they are 
 
 
-* standard.txt : gold_standard_set.txt						            
-* miOut116.txt : co-occurrence results for 116 artists					    
-* degree116.txt : degree results for 116 artists						    
-* spec116.txt : spectral mean vector distance for 116 artsts  			            
-* id_bollyArtist.map : map of artists, integer to string 					   
+    * standard.txt : gold_standard_set.txt						            
+    * miOut116.txt : co-occurrence results for 116 artists					    
+    * degree116.txt : degree results for 116 artists						    
+    * spec116.txt : spectral mean vector distance for 116 artsts  			            
+    * id_bollyArtist.map : map of artists, integer to string 	
 
 
 
@@ -114,5 +115,5 @@ FILE FORMAT
 								        
     --------------------------------------------------------------    
 								        
-note:  the second column in id_bollyArtist.map is for the gender.  0 - male ; 1 - female   
+    note:  the second column in id_bollyArtist.map is for the gender.  0 - male ; 1 - female   
 								        
