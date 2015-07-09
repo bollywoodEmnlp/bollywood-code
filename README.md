@@ -21,7 +21,7 @@ REACH
 
 
 OUTPUT
-~~~~~~
+------
 
  The output is formatted as follows (via tabulate package)
 
@@ -42,9 +42,8 @@ OUTPUT
      ---------------------  -----------  --------  ----------
 
 
-
 FILE
-~~~~
+----
 
  There are five files, they are 
 
@@ -58,8 +57,7 @@ FILE
 
 
 FILE FORMAT
-~~~~~~~~~~~
-
+-----------
 
     standard.txt :					       	        
     
