@@ -8,24 +8,21 @@ REACH
 
 * Download from https://github.com/bollywoodEmnlp/bollywood-code and run
     
-::
 
     python calcFscore.py standard.txt miOut116.txt degree116.txt spec116.txt id_bollyArtist.map 
 
 
 * Download tabulate package for python via 
 
-::
 
     pip install tabulate
 
 
 OUTPUT
-------
+~~~~~~
 
 1. The output is formatted as follows (via tabulate package)
 
-     ---------------------  -----------  --------  ----------
      names                    precision    recall    F1-score	    
      ---------------------  -----------  --------  ----------
      Daler Mehndi              0.636364  0.7         0.666667	    
@@ -39,9 +36,10 @@ OUTPUT
      Alka Yagnik               0.636364  0.411765    0.5	    
         ....							    
      avg                       0.598746  0.575568    0.570314	    
-     ---------------------  -----------  --------  ----------
+
 
 FILES
+-----
 
 1. There are five files, they are 
 
@@ -54,7 +52,7 @@ FILES
 
 
 FILE FORMAT
-
+-----------
 
     standard.txt :					       	        
     
