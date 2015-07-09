@@ -23,7 +23,7 @@ REACH
 OUTPUT
 ~~~~~~
 
-The output is formatted as follows (via tabulate package)
+ The output is formatted as follows (via tabulate package)
 
      ---------------------  -----------  --------  ----------
      names                    precision    recall    F1-score	    
@@ -42,10 +42,11 @@ The output is formatted as follows (via tabulate package)
      ---------------------  -----------  --------  ----------
 
 
+
 FILE
 ~~~~
 
-There are five files, they are 
+ There are five files, they are 
 
 
     * standard.txt : gold_standard_set.txt						            
