@@ -2,20 +2,22 @@
 recommendating related artists with co-occurrence, degree and spectral mean distance features
 
 REACH
------
 
 * Clone using "git clone https://github.com/bollywoodEmnlp/bollywood-code";
 
 * Download from https://github.com/bollywoodEmnlp/bollywood-code and run
-    
+
+::
 
     python calcFscore.py standard.txt miOut116.txt degree116.txt spec116.txt id_bollyArtist.map 
 
 
 * Download tabulate package for python via 
 
+::
 
     pip install tabulate
+
 
 
 OUTPUT
@@ -39,7 +41,7 @@ OUTPUT
 
 
 FILES
------
+~~~~~
 
 1. There are five files, they are 
 
@@ -52,7 +54,8 @@ FILES
 
 
 FILE FORMAT
------------
+~~~~~~~~~~~
+
 
     standard.txt :					       	        
     
