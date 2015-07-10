@@ -116,3 +116,23 @@ FILE FORMAT
 								        
     note:  the second column in id_bollyArtist.map is for the gender.  0 - male ; 1 - female   
 								        
+
+
+Preliminary results on selected American artists
+------------------------------------------------
+
+
+    -----------------	-------------------------------------------
+    names
+    -----------------	-------------------------------------------
+    Beyonce		Mariah Carey | Fergie | Usher | Kelly Rowland | Jamie Foxx | Akon | Michael Jackson | Christina Aguilera | Chris Brown | Ashanti |  Ariana Grande
+    Michael Jackson	Prince | Stevie Wonder | Janet Jackson | Whitney | Houston | Mariah Carey | Usher | Frida | Quincy Jones | James Brown | Akon | Beyonce 
+    Rihanna		Katy Perry | Chris Brown | Kanye West | Lady Gaga | Lil Wayne | Taylor Swift | Bruno Mars | Justin Bieber | Justin Timberlake | Glee | Leona Lewis 
+    Madonna		Michael Jackson | Britney Spears | Justin Timberlake | Elvis Presley | Barbra Streisand | Rihanna | Glee | Europe | Elton John | Lady Gaga | Celine Dion 
+    Mariah Carey	Whitney Houston | Janet Jackson | Usher | Beyonce | Michael Jackson | Leona Lewis | Christina Aguilera | Chris Brown | Paula Abdul | Ashanti | Jamie Foxx |
+    Elton John		Bernie Taupin | Billy Joel | Kiki Dee | Nigel Olsson | Madonna | The Beatles | George Michael | Rod Stewart | Elvis Presley | Prince | Leon Russell |
+    Katy Perry		Rihanna | Bruno Mars | Lady Gaga | Justin Bieber | Taylor Swift | Glee | Taio Cruz | Lil Wayne | Lorde | Ariana Grande | Kanye West |
+    Taylor Swift	Lady Gaga | Kanye West | Katy Perry | Rihanna | Justin Bieber | Carrie Underwood | Lil Wayne | Glee | Bruno Mars | Britney Spears | Ariana Grande |
+    ---------------	------------------------------------------
+
+

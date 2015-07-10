@@ -456,11 +456,18 @@ for iterate in range(0, totalLength, step):
 
     print "finish testing ..........."
     print
-##    for key in table:
-##        for val in key:
-##            print val, '|',
-##        print
 
+
+print
+print
+
+for key in table:
+    for val in key:
+        print val, '|',
+    print
+
+
+print
 ##    print len(avgFscore)
 
 
